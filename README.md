@@ -47,8 +47,8 @@ print("Account",regr.predict([[3300,1300]]))
 
 ```
 ## Output:
+![Screenshot 2023-12-25 070600](https://github.com/feryjfgkuyfgewjfgew/Multivariate-Linear-Regression/assets/150319377/d03a076c-2bc8-4ab1-878d-b52229943084)
 
-![Alt text](<Screenshot 2023-12-25 070600.png>)
 
 ### Insert your output
 
